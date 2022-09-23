@@ -1,0 +1,27 @@
+html,
+body {
+  background-color: aqua;
+}
+
+.app {
+  width: 100%;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+  background-color: aqua;
+}
+
+.container {
+  position: relative;
+  height: 95vmin;
+}
+
+.gumball {
+  height: 100%;
+}
+
+.eye {
+  position: absolute;
+  border-radius: 100vmax;
+  background-color: black;
+}
